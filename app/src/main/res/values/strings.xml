@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTstAp</string>
+    <string name="title_activity_datastore_main">DatastoreMainActivity</string>
+</resources>
